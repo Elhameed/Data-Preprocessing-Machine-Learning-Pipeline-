@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to develop a **Speech Emotion Recognition** (SER) model using Convolutional Neural Networks (CNNs) to classify speech emotions based on audio data. The model leverages the **RAVDESS** dataset, which consists of emotional speech recordings from professional actors. The project demonstrates how audio features, particularly **spectrograms**, can be used to predict emotional states such as happy, sad, angry, fearful, surprised, disgust, calm, and neutral.
+This project aims to develop a **Speech Emotion Recognition** (SER) model using Convolutional Neural Networks (CNNs) to classify speech emotions based on audio data. The model leverages the **RAVDESS** dataset, which consists of emotional speech recordings from professional actors. The project demonstrates how audio features, particularly **spectrograms**, can be used to predict emotional states such as happy, sad, angry, fearful, surprised, disgust, calm, and neutral. Link to project model design: https://github.com/Elhameed/Speech_Emotion_Recognition_model
 
 ## Project Details
 
